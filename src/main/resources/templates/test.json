@@ -1,0 +1,29 @@
+{
+  "data":
+    [
+      {
+        "id": 1,
+        "name": "abcdefgh",
+        "description": "sadashdjk",
+        "author": "a"
+      },
+      {
+        "id": 2,
+        "name": "ab",
+        "description": "sadashdjk",
+        "author": "a"
+      },
+      {
+        "id": 3,
+        "name": "abc",
+        "description": "sadashdjk",
+        "author": "Ha"
+      }
+    ],
+  "href":
+  {
+    "next": "/api/v1/books?size=20&page=1",
+    "previous": null,
+    "size": 3
+  }
+}
