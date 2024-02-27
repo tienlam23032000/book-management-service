@@ -1,2 +1,2 @@
 # book-management-service
-A Spring boot demo
+Project BE Spring Boot
